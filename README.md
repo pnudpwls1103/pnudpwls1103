@@ -33,7 +33,7 @@ I want to be <b>a game client developer</b>.
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnudpwls1103&show_icons=true&locale=en&layout=compact" alt="pnudpwls1103" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnudpwls1103&show_icons=true&locale=en&layout=compact" alt="pnudpwls1103" />
   <img src="https://github-readme-stats.vercel.app/api?username=pnudpwls1103&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </p>
 
