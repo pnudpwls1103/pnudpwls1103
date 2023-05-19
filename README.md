@@ -3,16 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Min%20Yejin&fontSize=90" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Min, Yejin</h1>
-<h3 align="center">Game client developer</h3>
-<p align=center>
+<h2> Hi 👋, I'm Min, Yejin </h3>
+<p>
   <a href="https://donkeysdevelpment.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=whit" />
   </a>
   <a href="mailto:pnudpwls1103@pusan.ac.kr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-pnudpwls1103@pusan.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+I am a student majoring in Computer Science Engineering
+</br>
+I want to be <b>a game client developer</b>.
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <h4 align="left">Languages & Platform</h3>
@@ -30,4 +32,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnudpwls1103&show_icons=true&locale=en&layout=compact" alt="pnudpwls1103" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnudpwls1103&show_icons=true&locale=en&layout=compact" alt="pnudpwls1103" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pnudpwls1103&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</p>
