@@ -32,11 +32,6 @@ I want to be <b>a game client programmer</b>.
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<h4 align="left">Communication</h3>
-<p>
-
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnudpwls1103&show_icons=true&locale=en&layout=compact" alt="pnudpwls1103" />
