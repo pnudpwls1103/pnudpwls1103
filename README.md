@@ -14,7 +14,7 @@
 </p>
 I am a student majoring in Computer Science Engineering
 </br>
-I want to be <b>a game client programmer</b>.
+I want to be <b>a game programmer</b>.
 
 <h3 align="left">🛠️ Skills</h3>
 <h4 align="left">Languages & Platform</h3>
