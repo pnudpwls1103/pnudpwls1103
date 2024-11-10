@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/badge/Email-pnudpwls1103@pusan.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-I am a student majoring in Computer Science Engineering
-</br>
-I'm <b>a game client programmer</b>.
+I am a <b>game client developer</b> with a major in computer science.
 
 <h3 align="left">🛠️ Skills</h3>
 <h4 align="left">Languages & Platform</h3>
