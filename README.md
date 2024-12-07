@@ -29,10 +29,10 @@ I am a <b>game client developer</b> with a major in computer science.
   <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"/>
 </p>
 
-<p align="center">
+<!--<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnudpwls1103&show_icons=true&locale=en&layout=compact" alt="pnudpwls1103" />
   <img src="https://github-readme-stats.vercel.app/api?username=pnudpwls1103&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</p>
+</p>--!>
 
 <p align="center">
   <img src="https://github.com/pnudpwls1103/pnudpwls1103/blob/output/github-contribution-grid-snake.svg"/>
